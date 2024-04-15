@@ -1,7 +1,7 @@
 autopep8==1.5.4
 certifi==2020.6.20      
 chardet==3.0.4
-idna==2.10
+idna==3.7
 prometheus-client==0.8.0
 pycodestyle==2.6.0      
 python-dotenv==0.14.0   
